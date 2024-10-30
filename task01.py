@@ -56,6 +56,7 @@ def plot_benchmark_results(standard_results, numpy_results):
     plt.title('Matrix Multiplication Performance Comparison')
     plt.show()
 
+# part (e)
 def strassen_non_recursive(A, B):
     #elements of A
     a = A[0][0]
