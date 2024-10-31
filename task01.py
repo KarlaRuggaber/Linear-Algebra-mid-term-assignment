@@ -1,3 +1,6 @@
+# I, Karla Ruggaber, hereby declare that i have solved this project without any help from others and without the use of documents and
+# aids other than explicitly stated.
+
 import time
 import random
 import numpy  # For optimized matrix multiplication
